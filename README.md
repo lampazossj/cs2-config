@@ -1,5 +1,5 @@
-Counter strike source 2
-config files by me for me :V
+Counter strike 2
+config file by me for me :V
 
 Launch options:
 
